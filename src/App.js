@@ -18,7 +18,7 @@ const app = (props) => {
       persons: [
         { name: "Max04", age: 28 },
         { name: "Max14", age: 27 },
-        { name: "Max24", age: 29 },
+        { name: "Max2", age: 29 },
       ],
     });
   };
